@@ -112,8 +112,6 @@
 <p dir="auto">Backend</p>
 </blockquote>
 <table width="100%">
-    Ислам
-
 <tbody><tr>
     <td align="center" width="96"> 
       <a href="#debabin-stack">
